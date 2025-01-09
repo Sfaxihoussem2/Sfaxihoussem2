@@ -1,0 +1,25 @@
+<!-- Client 2 -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WebSocket Example - Client 2</title>
+</head>
+<body>
+  <ul id="messageList"></ul>
+
+  <script>
+    const socket = new WebSocket('ws://localhost:8080');
+
+    socket.onopen = () => {
+      console.log('WebSocket connection established.');
+    };
+
+    socket.onmessage = (event) => {
+      const messageList = document.getElementById('messageList');
+      const listItem = document.createElement('li');
+      listItem.textContent = event.data;
+      messageList.appendChild(listItem);
+    };
+  </script>
+</body>
+</html>

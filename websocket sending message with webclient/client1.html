@@ -1,0 +1,31 @@
+// if use public server change ur adresse ip or ur domaine 
+<!-- Client 1 -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WebSocket Example - Client 1</title>
+</head>
+<body>
+  <input type="text" id="messageInput">
+  <button onclick="sendMessage()">Send</button>
+
+  <script>
+    const socket = new WebSocket('ws://localhost:8080'); 
+
+    socket.onopen = () => {
+      console.log('WebSocket connection established.');
+    };
+
+    socket.onmessage = (event) => {
+      console.log('Received message:', event.data);
+    };
+
+    function sendMessage() {
+      const input = document.getElementById('messageInput');
+      const message = input.value;
+      socket.send(message);
+      input.value = '';
+    }
+  </script>
+</body>
+</html>
