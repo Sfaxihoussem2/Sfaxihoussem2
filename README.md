@@ -2,20 +2,25 @@
 👋 I'm Houssem Eddine Sfaxi  
 A computer engineering student specializing in Embedded Systems and IoT at the Faculty of Science of Bizerte (Tunisia).  
 With strong skills in IoT development, embedded systems, and machine learning.  
+
 ---
 💡 I'm an IoT developer with a passion for building smart systems and leveraging cutting-edge technologies to solve real-world problems. I specialize in embedded systems, IoT solutions, and machine learning, with a focus on TinyML and cloud integration.  
+
 ---
 🔭 I’m currently studying at the Faculty of Science of Bizerte.  
 🌱 I’m currently learning Machine Learning, TinyML, and IoT Cloud technologies.  
+
 ---
 💼 Work Experience:  
 - **IoT Developer Intern** at TAC TIC Company (Technopole Ghazela) - 8 months  
 - **Freelancer** - 1 year (IoT and Embedded Systems projects)  
 - **Former President** of the Robotics and Web/Mobile Development Club  
 - **Treasurer** at Jeunes Science Bizerte Association  
+
 ---
 💡 Let's Collaborate:  
 I'm always open to collaborating on exciting IoT, embedded systems, and machine learning projects. Feel free to reach out if you have any interesting opportunities or ideas!  
+
 ---
 📬 Let’s Connect:  
 [LinkedIn](#) | [CV](#) | [YouTube](#)  
