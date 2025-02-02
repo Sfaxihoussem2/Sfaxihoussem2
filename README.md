@@ -41,7 +41,6 @@ I'm always open to collaborating on exciting IoT, embedded systems, and machine 
 
 ---
 
-🔧 Skills & Tools:  
 🔧 **Skills & Tools**:  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
