@@ -39,10 +39,10 @@ I'm always open to collaborating on exciting IoT, embedded systems, and machine 
 ---
 
 🏅 Certifications:  
-- **IoT Specialization** (Coursera)  
-- **Machine Learning for Embedded Systems** (Udemy)  
-- **TinyML Fundamentals** (edX)  
-- **Cloud Computing for IoT** (Coursera)  
+- **IoT Specialization** (4C)  
+- **Machine Learning for Embedded Systems** (4C)  
+- **TinyML Fundamentals** (4C)  
+- **Cloud Computing for IoT** (4C)  
 
 ---
 
