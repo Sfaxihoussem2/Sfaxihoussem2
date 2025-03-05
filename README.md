@@ -23,7 +23,7 @@ I'm always open to collaborating on exciting IoT, embedded systems, and machine 
 
 ---
 📬 Let’s Connect:  
-[LinkedIn](#) | [CV](#) | [YouTube](#)  
+[LinkedIn](#) | [CV](#) | 
 
 ---
 
@@ -71,7 +71,7 @@ I'm always open to collaborating on exciting IoT, embedded systems, and machine 
 📈 GitHub Stats & Activity:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)  
+ 
 
 ---
 
