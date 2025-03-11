@@ -1,5 +1,5 @@
 # 👨‍💻 About Me 
-![Tech Animation](DALL.webp)
+![Tech Animation](DALL2.png)
 
 👋 I'm **Houssem Eddine Sfaxi**  
 A computer engineering student specializing in Embedded Systems and IoT at the Faculty of Science of Bizerte (Tunisia).  
