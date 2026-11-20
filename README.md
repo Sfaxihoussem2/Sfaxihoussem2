@@ -1,91 +1,118 @@
-# 👨‍💻 About Me 
-![Tech Animation](DALL2.png)
+<div align="center">
 
-👋 I'm **Houssem Eddine Sfaxi**  
-A computer engineering student specializing in Embedded Systems and IoT at the Faculty of Science of Bizerte (Tunisia).  
-With strong skills in IoT development, embedded systems, and machine learning.  
+# Houssem Eddine Sfaxi
 
----
+### Embedded Systems & IoT Engineer | Firmware • Edge AI • Full-Stack Connected Solutions
 
-💡 I'm an IoT developer with a passion for building smart systems and leveraging cutting-edge technologies to solve real-world problems. I specialize in embedded systems, IoT solutions, and machine learning, with a focus on TinyML and cloud integration.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sfaxihoussem2.github.io/My-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssem-sfaxi-3272a9280)
+[![GitHub](https://img.shields.io/badge/GitHub-Sfaxihoussem2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sfaxihoussem2)
 
----
+**Location:** Ras Jebel, Bizerte, Tunisia  
+**Focus:** Designing complete IoT solutions — from microcontroller firmware and hardware integration to cloud backends, real-time communication, and user-facing dashboards.
 
-🔭 I’m currently studying at the Faculty of Science of Bizerte.  
-🌱 I’m currently learning Machine Learning, TinyML, and IoT Cloud technologies.  
-
----
-
-## 💼 Work Experience  
-- **IoT Developer Intern** at TAC TIC Company (Technopole Ghazela) - 8 months  
-- **Freelancer** - 1 year (IoT and Embedded Systems projects)  
-- **Former President** of the Robotics and Web/Mobile Development Club  
-- **Treasurer** at Jeunes Science Bizerte Association  
+</div>
 
 ---
 
-## 💡 Let's Collaborate  
-I'm always open to collaborating on exciting IoT, embedded systems, and machine learning projects. Feel free to reach out if you have any interesting opportunities or ideas!  
+### About Me
+
+I am an Embedded Systems and IoT Engineer specializing in firmware development, hardware-software integration, and end-to-end connected systems. I build practical solutions that combine microcontrollers (ESP32, ESP8266, Arduino), Edge AI / TinyML, real-time communication protocols, and full-stack applications.
+
+My experience includes assistive technology devices, autonomous marine robotics, smart home systems, RFID-based access control, and real-time camera streaming architectures. I enjoy taking projects from concept and hardware design through firmware, backend APIs, and interactive frontends.
 
 ---
 
-## 📬 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssem-sfaxi-3272a9280)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sfaxihoussem2.github.io/My-portfolio/)  
+### Core Expertise
+
+**Primary**
+- Embedded Software Development & Firmware (C / C++)
+- Internet of Things (IoT) Architecture
+- Edge AI & TinyML (Edge Impulse, FOMO, TensorFlow Lite Micro)
+- Hardware-Software Integration
+- Real-time Systems & Communication Protocols
+
+**Secondary**
+- Full-Stack Web Development (JavaScript, Node.js, Express)
+- Backend APIs & Databases (MongoDB)
+- WebSocket & MQTT-based IoT communication
+- Smart Home & Building Automation
+- Robotics & Autonomous Systems
+- Technical Project Delivery
 
 ---
 
-## 🚀 Expertise & Technical Skills  
-### 🖥️ **Programming Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+### Technology Stack
 
-### 🌐 **IoT Development**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)  
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)  
-![LoRaWAN](https://img.shields.io/badge/LoRaWAN-1D4ED8?style=for-the-badge)  
+**Languages**  
+`C` `C++` `Python` `JavaScript` `TypeScript` `HTML/CSS`
 
-### 🤖 **Machine Learning**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![TinyML](https://img.shields.io/badge/TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+**Embedded & IoT**  
+`ESP32` `ESP32-CAM` `ESP8266` `Arduino` `FreeRTOS` `Edge Impulse` `TinyML` `RFID / Wiegand` `GPS` `IMU`
 
-### ☁️ **Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+**Communication**  
+`WebSocket` `MQTT` `HTTP/REST` `Wi-Fi`
 
-### 🛠️ **Embedded Systems & Tools**  
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=freertos&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+**Backend & Tools**  
+`Node.js` `Express` `MongoDB` `Git` `Linux` `Docker (basic)`
 
 ---
 
-## 🏅 Certifications  
-- **IoT Specialization** (4C)  
-- **Machine Learning for Embedded Systems** (4C)  
-- **TinyML Fundamentals** (4C)  
-- **Cloud Computing for IoT** (4C)  
+### Featured Projects
+
+| Project | Description | Tech Highlights |
+|---------|-------------|-----------------|
+| **[Smart Glasses for Blind Persons](https://github.com/Sfaxihoussem2/smart-glasses-for-blind-person-)** | Assistive wearable using ESP32-CAM + Edge Impulse FOMO for real-time object detection and text-to-speech feedback | Edge AI, TinyML, ESP32-CAM, Custom TTS, 3D-printed hardware |
+| **[Sea Drone](https://github.com/Sfaxihoussem2/Sea-drone-)** | Autonomous marine vehicle with GPS navigation, IMU stabilization, dual thrusters, live video streaming and web telemetry | ESP32, Arduino Mega, GPS, MPU9250, WebSocket, T200 thrusters |
+| **[Smart Home Platform](https://github.com/Sfaxihoussem2/Smarthome-project)** | Full-stack smart home system with backend API, user authentication and interactive dashboard | Node.js, Express, MongoDB, JavaScript frontend |
+| **[ESP32-CAM WebSocket Streaming](https://github.com/Sfaxihoussem2/camera-streaming-with-serverwebsocket-esp32cam-)** | Real-time JPEG video streaming from ESP32-CAM to a WebSocket server | ESP32-CAM, WebSocket, Camera firmware |
+| **[RFID Access & Environmental Monitoring](https://github.com/Sfaxihoussem2/Pointing-use-RFID-card-with-Esp32)** | IoT smart lock + environmental sensing (temp, humidity, dust, sound) with WebSocket control and FreeRTOS tasks | ESP32, RFID, FreeRTOS, WebSocket, DHT22 |
 
 ---
 
-## 📈 GitHub Stats & Activity  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sfaxihoussem2&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sfaxihoussem2&layout=compact&theme=dark)  
+### Experience Highlights
 
-### 📊 **Most Used Languages (Graphical Chart)**  
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sfaxihoussem2&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+- **IoT Developer Intern** — TAC TIC Company (Technopole El Ghazala) — 8 months  
+  Worked on connected systems and embedded IoT solutions.
 
-### 🚀 **Commit Activity (More than 50 commits!)**  
-![GitHub Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=Sfaxihoussem2&theme=react)  
+- **Freelance Embedded & IoT Engineer** — 1+ year  
+  Delivered custom firmware, hardware integration and IoT prototypes for clients.
+
+- **Former President** — Robotics and Web/Mobile Development Club  
+- **Treasurer** — Jeunes Science Bizerte Association
 
 ---
 
-## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Sfaxihoussem2&color=blue)  
+### Certifications
+
+- IoT Specialization  
+- Machine Learning for Embedded Systems  
+- TinyML Fundamentals  
+- Cloud Computing for IoT
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sfaxihoussem2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sfaxihoussem2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### Let's Connect
+
+I'm open to opportunities in **Embedded Software Engineering**, **IoT Solutions Engineering**, **Firmware Development**, and **Full-Stack IoT** roles, both remote and international.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssem-sfaxi-3272a9280)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat)](https://sfaxihoussem2.github.io/My-portfolio/)
+[![Email](https://img.shields.io/badge/Contact-via%20LinkedIn-blue?style=flat)](https://www.linkedin.com/in/houssem-sfaxi-3272a9280)
+
+---
+
+<div align="center">
+
+*Building reliable connected systems from the metal up.*
+
+</div>
